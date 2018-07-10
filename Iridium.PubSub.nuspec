@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>iridium.pubsub</id>
+        <version>1.0.0.7091</version>
+        <authors>Philippe Leybaert</authors>
+        <owners>Philippe Leybaert</owners>
+        <licenseUrl>https://raw.githubusercontent.com/activa/iridium-pubsub/master/LICENSE</licenseUrl>
+        <projectUrl>http://github.com/activa/iridium-pubsub</projectUrl>
+        <iconUrl>http://www.iridiumdb.com/img/IconPlain64.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Lightweight Pub/Sub library for .NET</description>
+        <tags>iridium pubsub</tags>
+    </metadata>
+    <files>
+        <file src="src\Iridium.PubSub\bin\Release\netstandard1.0\*.dll" target="lib\netstandard1.0" />
+    </files>
+</package>

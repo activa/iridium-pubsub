@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iridium.PubSub", "Iridium.PubSub\Iridium.PubSub.csproj", "{1495EE1E-B7DC-486F-8AC9-C003A0C60B82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iridium.PubSub.Test", "Iridium.PubSub.Test\Iridium.PubSub.Test.csproj", "{B9ED0C90-A547-4CAE-8C18-608AE2833557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1495EE1E-B7DC-486F-8AC9-C003A0C60B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1495EE1E-B7DC-486F-8AC9-C003A0C60B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1495EE1E-B7DC-486F-8AC9-C003A0C60B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1495EE1E-B7DC-486F-8AC9-C003A0C60B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9ED0C90-A547-4CAE-8C18-608AE2833557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9ED0C90-A547-4CAE-8C18-608AE2833557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9ED0C90-A547-4CAE-8C18-608AE2833557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9ED0C90-A547-4CAE-8C18-608AE2833557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D649F37-2047-4CB0-9133-6959AD1EC2FD}
+	EndGlobalSection
+EndGlobal
